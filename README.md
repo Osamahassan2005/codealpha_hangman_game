@@ -1,4 +1,3 @@
-# codealpha_hangman_game
 ## *Hangman Game Report*
 
 ### *1. Introduction*
